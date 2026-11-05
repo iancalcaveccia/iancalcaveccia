@@ -19,6 +19,8 @@ All services and custom-engagement prices: [hireian.today/services](https://hire
 
 ### Guides
 
+- [AI by industry: 30 sector guides with sources](https://hireian.today/industries/)
+- [Case study: a Medicare medication-access operation rebuilt as one CRM with an AI layer](https://hireian.today/case-studies/medicare-medication-access-crm/)
 - [AI for Medicare brokers: more time with clients, less time on admin](https://hireian.today/ai-for-medicare-brokers/)
 - [AI for FMOs and IMOs: onboarding, compliance and agent support](https://hireian.today/ai-for-fmos/)
 - [EU AI Act for small businesses: what applies now, and what changed in 2026](https://hireian.today/guides/eu-ai-act-small-business/)
